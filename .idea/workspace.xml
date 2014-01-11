@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd7aa6db-2d6c-42f6-a698-9382175173c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="solr_ui_deployment.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="dd7aa6db-2d6c-42f6-a698-9382175173c0" time="1389450739231" ignored="false" />
-    <file path="/pom.xml" changelist="dd7aa6db-2d6c-42f6-a698-9382175173c0" time="1389451899497" ignored="false" />
+    <file path="/pom.xml" changelist="dd7aa6db-2d6c-42f6-a698-9382175173c0" time="1389452098795" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="35" selection-start="938" selection-end="938" vertical-scroll-proportion="0.648">
+            <state line="26" column="42" selection-start="945" selection-end="945" vertical-scroll-proportion="0.648">
               <folding />
             </state>
           </provider>
@@ -367,7 +367,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="35" selection-start="938" selection-end="938" vertical-scroll-proportion="0.648">
+        <state line="26" column="42" selection-start="945" selection-end="945" vertical-scroll-proportion="0.648">
           <folding />
         </state>
       </provider>
