@@ -7,16 +7,6 @@
     <groupId>solr_ui_deployment</groupId>
     <artifactId>solr_ui_deployment</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <dependencies>
-        <dependency>
-            <groupId>solr_ui</groupId>
-            <artifactId>solr_ui</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
-
     <build>
         <plugins>
             <plugin>
