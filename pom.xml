@@ -14,7 +14,7 @@
             <artifactId>jetty-maven-plugin</artifactId>
             <version>9.1.0.v20131115</version>
             <configuration>
-                <webApp>${basedir}/target/solr_ui.war</webApp>
+                <war>${basedir}/target/solr_ui.war</war>
             </configuration>
         </plugin>
         </plugins>
